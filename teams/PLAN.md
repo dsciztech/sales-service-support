@@ -1,2 +1,2 @@
 # Plan Team
-Proje hakkında kilit kişilere ve kilit noktalara nasıl ulaşılacağını planlar.
+Plan takımı organizasyonun çevresiyle etkileşimini bir sonraki aşamaya taşımak için kurulması gereken iletişimleri tasarlayıp iletişim akışını ön görür.
