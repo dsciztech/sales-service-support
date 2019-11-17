@@ -1,2 +1,2 @@
 # Plan Team
-*Replace this with definition*
+Proje hakkında kilit kişilere ve kilit noktalara nasıl ulaşılacağını planlar.
